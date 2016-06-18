@@ -1,0 +1,6 @@
+framework module Pods_HappyZoo {
+  umbrella header "Pods-HappyZoo-umbrella.h"
+
+  export *
+  module * { export * }
+}
