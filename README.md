@@ -17,13 +17,13 @@ Get familiar with the 'SwiftyJSON' and 'Alamofire'
 
 #####2. QRCode Paradise -
 
-![GitHub](https://github.com/Donny8028/Swift-Applications/blob/master/QRCodeParadise/QRCodeParadise.gif?raw=true)
+![GitHub](https://github.com/Donny8028/Swift-Applications/blob/master/QRCodeParadise/QRCode.gif?raw=true)
 
 Use the WKWebView and AVFoundation frameworks.
 
 #####3. Wiki Face - 
 
-![GitHub](https://github.com/Donny8028/Swift-Applications/blob/master/WikiFace/WIKIFace.gif?raw=true)
+![GitHub](https://github.com/Donny8028/Swift-Applications/blob/master/WikiFace/WikFace.gif?raw=true)
 
 It was used the Wiki API.
 
